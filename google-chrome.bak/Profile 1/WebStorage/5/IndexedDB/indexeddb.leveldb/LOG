@@ -1,0 +1,4 @@
+2025/02/03-14:45:23.845 8b1 Reusing MANIFEST /home/ramprakhyath/.config/google-chrome/Profile 1/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/02/03-14:45:23.846 8b1 Recovering log #3
+2025/02/03-14:45:23.852 8b1 Reusing old log /home/ramprakhyath/.config/google-chrome/Profile 1/WebStorage/5/IndexedDB/indexeddb.leveldb/000003.log 
+2025/02/03-14:45:23.902 8c1 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

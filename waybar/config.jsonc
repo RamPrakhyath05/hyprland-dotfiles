@@ -1,0 +1,95 @@
+{
+	"layer": "top",
+	"margin-bottom": 5,
+	"margin-top": 5,
+	"modules-left": ["hyprland/workspaces","hyprland/window","custom/spotify", "tray"],
+	"modules-center": ["clock"],
+	"modules-right": [ "cpu","memory","backlight","pulseaudio", "battery","network","custom/launcher","custom/power"],
+	    
+    "hyprland/window": {  
+    //"format": "{}"   // <--- these is the default value  
+    "format": "<span font='9' rise='-4444'>{}</span>"  
+    },
+    "pulseaudio": {
+        "scroll-step": 5,
+        "format": "{icon} {volume}% ",
+        "format-bluetooth": "{volume}% {icon} {format_source}",
+        "format-bluetooth-muted": "  {format_source}",
+        "format-muted": " ",
+        "format-source": "{volume}% ",
+        "format-source-muted": "",
+        "format-icons": {
+            "default": ["", " ", " "]
+        },
+        "on-click": "pavucontrol"
+    },
+
+    "network": {
+	    // "interface": "wlp2*", // (Optional) To force the use of this interface
+	    "format-wifi": "  {essid}",
+	    "format-ethernet": "",
+	    "tooltip-format": "{essid} ({signalStrength}%)",
+	    "format-linked": "{ifname} (No IP) ",
+	    "format-disconnected": "⚠",
+	    "format-alt": "{ifname}: {ipaddr}/{cidr}"
+	    },
+    "backlight": {
+	    "tooltip": false,
+	    "format": " {}%",
+	    "interval":1,
+	    "on-scroll-up": "brightnessctl s 1%-",
+	    "on-scroll-down": "brightnessctl s 1%+"
+    },
+    "battery": {
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 20
+        },
+        "format": "{icon}  {capacity}%",
+        "format-charging": " {capacity}%",
+        "format-plugged": " {capacity}%",
+        "format-alt": "{time} {icon}",
+        "format-icons": ["", "", "", "", ""]
+    },
+	"tray":{
+		"icon-size":18,
+		"spacing": 10
+	},
+	"clock": {
+    	"tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+    	"format": "{:%I:%M %p | %d-%m-%Y}"
+    },
+    "cpu": {
+        "interval": 15,
+        "format": " {}%",
+        "max-length": 10
+    },
+    "memory": {
+        "interval": 30,
+        "format": " {}%",
+        "max-length": 10
+    },
+    "custom/spotify": {
+        "interval": 1,
+		    "return-type": "json",
+		    "exec": "~/.config/waybar/scripts/spotify.sh",
+		    "exec-if": "pgrep spotify",
+		    "escape": true
+        },
+    "custom/launcher":{
+        "format": " ",
+        "on-click": "wofi --show drun",
+        "on-click-right": "killall wofi"
+    },
+    "custom/power":{
+        "format": "⏻",
+        "on-click": "wlogout"
+    },
+    "hyrpland/workspaces": {
+        "format": "{icon}",
+		    "on-scroll-up": "hyprctl dispatch workspace e+1",
+		    "on-scroll-down": "hyprctl dispatch workspace e-1",
+		    "on-click": "activate"
+	}
+}

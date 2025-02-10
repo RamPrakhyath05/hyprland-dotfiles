@@ -1,0 +1,7 @@
+2025/01/30-10:48:47.389 ff4 Reusing MANIFEST /home/ramprakhyath/.config/google-chrome/Profile 4/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/30-10:48:47.389 ff4 Recovering log #3
+2025/01/30-10:48:47.390 ff4 Reusing old log /home/ramprakhyath/.config/google-chrome/Profile 4/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000003.log 
+2025/01/30-10:53:54.542 ff3 Level-0 table #5: started
+2025/01/30-10:53:54.546 ff3 Level-0 table #5: 8479 bytes OK
+2025/01/30-10:53:54.547 ff3 Delete type=0 #3
+2025/01/30-10:53:54.548 ff3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2025/02/03-15:19:58.812 e6d Reusing MANIFEST /home/ramprakhyath/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/03-15:19:58.812 e6d Recovering log #3
+2025/02/03-15:19:58.819 e6d Reusing old log /home/ramprakhyath/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2025/02/03-15:47:13.133 e6b Level-0 table #5: started
+2025/02/03-15:47:13.150 e6b Level-0 table #5: 1416990 bytes OK
+2025/02/03-15:47:13.154 e6b Delete type=0 #3

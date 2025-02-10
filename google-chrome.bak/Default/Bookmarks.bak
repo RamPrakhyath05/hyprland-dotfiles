@@ -1,0 +1,114 @@
+{
+   "checksum": "059f52a607a2efebec85ceecfa47bcb0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13381761092923964",
+            "date_last_used": "13382372120300380",
+            "guid": "377ba104-2c8d-4d76-aeaa-fa514e90bab3",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Calendar",
+            "type": "url",
+            "url": "https://calendar.google.com/calendar/u/0/r"
+         }, {
+            "date_added": "13380874345758537",
+            "date_last_used": "0",
+            "guid": "d6021747-14ac-4864-b09e-259851aaa5c7",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13380633812964903",
+            "date_last_used": "13382428525903766",
+            "guid": "e1bdb2eb-9dee-4434-a0fd-916ad83bd2bd",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Linux Course",
+            "type": "url",
+            "url": "https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+1T2023/home"
+         }, {
+            "date_added": "13380633841254340",
+            "date_last_used": "0",
+            "guid": "98620501-7202-492c-8b26-eef20c81816d",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "LeetCode",
+            "type": "url",
+            "url": "https://leetcode.com/problemset/"
+         }, {
+            "date_added": "13379186359192288",
+            "date_last_used": "0",
+            "guid": "d98bc72d-89ac-4a33-8599-efc16df8059f",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DSA-160",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/batch/gfg-160-problems?tab=Chapters"
+         }, {
+            "date_added": "13379187493793237",
+            "date_last_used": "13379444934019963",
+            "guid": "02512b3b-72b3-4efc-a49b-08a7b3c21318",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Java",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/batch/fork-java?tab=Chapters"
+         }, {
+            "date_added": "13381689320978032",
+            "date_last_used": "0",
+            "guid": "39e52391-4e42-4788-b49b-93247d14216e",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DSA Basics",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/?ref=gcse_ind"
+         } ],
+         "date_added": "13382427324976662",
+         "date_last_used": "0",
+         "date_modified": "13381761092923964",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13382427324976667",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13382427324976670",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CpcBCncIiIECEnEgAJIBbApqCg5jaHJvbWVfc3luY19ibRIFNTEhYm0aEgkEHTnlqCwGABEEHTnlqCwGACI0Cf3MDuWoLAYAEAMZUPUye07SGS0gASocNTEhYm0vZmQ6OTE2MzcyMzU1OTQ2ODg5MzE2MSlTRDnlqCwGABIAKhhoV2VSUVhGRm5oSC8wTHE1NjM2ZE53PT1IAxLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnhwVTc4TTlwWDhsSzhodjl0UzlOZmwrNEk3L3dRNGJxaGJ0S1MxSGZYbGo2M0M5ems5YjhManVSTlNuaDUyWTE0U1c2dk0yZEcwNjZ1MDZVQVc1akVWM1dFaXZRPT0YACAAKAAw1+ri/f6QiwM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnduTXhMay9ISzhYM0p3L3ljSjZ6RjRpV3VWK3hQbE9kbENpTUZUUHZ0U1k0aDY5Tys3azk1UXdVQkx0V0NCYzBQckZrbVEYACAAKAAw1+ri/f6QiwM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLsAQgLEucBChxTSTN3OVdFdWdZcyt6b0pxckt4dUZiZ3F5MFk9EmZaOkFEcXRBWnhjMW95V05YUE5qeGZoVlJGVTFvRGFQeVFLVG1TWVNlWjBWYlRQL2Q2NEpDSThDZnNvbFFFTEpRcFloUFV6eElKMTh5SklRWm9CZG1lMEtIOHdBVFFTWUE4TnFnPT0YACAAKAAw877z8tD/igM4kvyA0ccyQJL8gNHHMkocSlA1SkFJMFBxMkpmV3NZOFZ4QVJRRFhqOFBBPVofIh37eUFzcGtobnNRSWY3S2ZzS3k0MzVXWFgxR0IwPWVRpCm3EuwBCAUS5wEKHDVYMEE1OTlEekpVWGo2dGZGUkJjT3MvWU9jTT0SZlo6QURxdEFaeGMxb3lXTlhQTmp4ZmhWUkZVMW9EYTlTa2h4WXN1QVI1d0EwTWZzWHFOaThzRGN5VlVQNU81UkM4NDRIbDV1amNOTmI0Q1dXbTJQL0FJSFRLMy9WTUZDWGJQSXc9PRgAIAAoADCVyeHBwJOLAzi8yp3zxzJAvMqd88cyShxZck1XOTZJdlZLaU5Kc3N2cnZ4T1Juai81eEE9Wh8iHSxaT3gzb3FNdEtTblJIdy9QZGcvdkM1dDlHc009ZaZX6RQS7AEICRLnAQocVjNEMXhEWFJ2NUE5d2kwbk9NZ2U2WGFMZGNVPRJmWjpBRHF0QVp4YzFveVdOWFBOanhmaFZSRlUxb0RhaDh3c0RDWTkvQVFjTGVraXIxQjcvbTY0SVF1eDFhMStRRlg1U3JaUXNrSTBBclBZUkhsOVFEK0VvYnA2U01Tc0hGTU1XQT09GAAgACgAMK/N2PPB5ooDOLzovrXEMkC86L61xDJKHGZlN0x0b1lkOWFWKys0bVRlV2JrYXpuTTJCbz1aHyId3TBRL2lLanpjV3ErSU94SGFpemFqQjJ6aWRNND1lUaQptxLsAQgKEucBChxERDJ1MzIzVUNlZ1NEVlducFovWkN2cklFZFE9EmZaOkFEcXRBWnhjMW95V05YUE5qeGZoVlJGVTFvRGE1RWxZN1gzWmx6WkQ3ak9tWG5vczVlOVZEUXprcDYwN3VDSWxZbkVKdkpjN25yQmpFZTE0amZyMzk3Ky9vU0w1RUNDVS9BPT0YACAAKAAwr83Y88HmigM4vOi+tcQyQLzovrXEMkocWVNUZ1VjYnJqSDgvdFg4S1dTZXRPUWhjN2t3PVofIh33SzhmdmtVei9RZndMUllsN0c4MllSWXRnV2hFPWVRpCm3EusBCAcS5gEKHFVDcHlRWU5zK3E4dDFhbUpsR01hbTJsQ2xZTT0SZlo6QURxdEFaeGMxb3lXTlhQTmp4ZmhWUkZVMW9EYXJVVE9FcWFIR1dmbStiRTBvS2xXdXV2dDZrOWp5eGRMM094L1Q5ZTQ4eGhnMTYzd2diRzJiUFh2STFzTFI1Y3JXZ3hiUkE9PRgAIAAoADCvzdjzweaKAzjl79nZwzJA5e/Z2cMyShxtQlFRbWw0ZXdEVXdaSFM1a052WGw4bWQvWGM9Wh4iHHV4amx2ZGJSNXY0djRKU0tPRTJVN0cyeUhpMD1lEXd8BBLsAQgIEucBChxRMDRFV3E5bmRiZU9wMndibUs1WElQVDBkZnc9EmZaOkFEcXRBWnhjMW95V05YUE5qeGZoVlJGVTFvRGEzd0M5WUxmM1c0Ykhpb29PNGErL3RCanFFWXA0aWF4dSsrSkwzdENlTk16MitTSVNsWXN1SjFNMHpCalp6WGQ2ZGtHWG5RPT0YACAAKAAwr83Y88HmigM45szb2cMyQObM29nDMkocREdpWkFWWGNjU3VXM01xbnpNd3kvT2hhS3lzPVofIh26Q1FoSDhOdHBHUVNNNU54d0QwRFA2ZW5YdkpzPWWmJz3bEusBCAYS5gEKHC9MSkkwSkFzVGQ5a0UxYThRYllqeitaejk3Yz0SZlo6QURxdEFaeGMxb3lXTlhQTmp4ZmhWUkZVMW9EYW1mTHNuamdIRlE2cCtIWWwwVE4wbFdrVkl4anN3V0ljdTlMYi9MZHVhWUFEYXhEN2FNM1BGYTN1enA5Z0tOVERLdmVMOVE9PRgAIAAoADDnhovx9OeKAzie6rLMxDJAnuqyzMQyShw5cTRsMVBBTFhxVGg5UGFVUkk4NzFNaThaSG89Wh4iHFlOWlNBbkhWb1FCN2FKNGpHWXo3ckRYTGtOaz1lyPM/uxLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnh2Uy9qQVI2OEZZT0JQcHNjQWxBM2JjZGVkL0hwd1Bic01OMk4xZkk2SzhoTjZtQk50WDViamUyZGpra013dWRER1AxRUQ0bmNNbGZ1ZUdzb3p3WHVPa05RMTJRPT0YACAAKAAw1+ri/f6QiwM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADABOAA=",
+   "version": 1
+}

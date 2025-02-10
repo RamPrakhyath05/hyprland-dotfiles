@@ -1,0 +1,14 @@
+2025/01/27-10:27:52.471 2519 Creating DB /home/ramprakhyath/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2025/01/27-10:27:52.473 2519 Reusing MANIFEST /home/ramprakhyath/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/27-10:31:39.015 251a Level-0 table #5: started
+2025/01/27-10:31:39.034 251a Level-0 table #5: 1166313 bytes OK
+2025/01/27-10:31:39.037 251a Delete type=0 #3
+2025/01/27-11:00:44.578 251a Level-0 table #7: started
+2025/01/27-11:00:44.591 251a Level-0 table #7: 1447589 bytes OK
+2025/01/27-11:00:44.593 251a Delete type=0 #4
+2025/01/27-11:00:49.718 251a Compacting 1@1 + 1@2 files
+2025/01/27-11:00:49.729 251a Generated table #8@1: 310 keys, 53125 bytes
+2025/01/27-11:00:49.730 251a Compacted 1@1 + 1@2 files => 53125 bytes
+2025/01/27-11:00:49.731 251a compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/27-11:00:49.731 251a Delete type=2 #7
+2025/01/27-11:00:49.731 251a Delete type=2 #5
